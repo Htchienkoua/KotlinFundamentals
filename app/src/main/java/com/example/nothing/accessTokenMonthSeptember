@@ -1,1 +1,6 @@
 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
+
+Type into terminal: “git add .” and then hit enter
+Type into terminal “git status” and then hit enter (this step is optional)
+Type into terminal “git commit -m ‘type any message here” and then hit enter
+Type into terminal “git push” and then hit enter

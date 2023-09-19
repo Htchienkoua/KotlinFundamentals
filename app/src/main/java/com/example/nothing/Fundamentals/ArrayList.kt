@@ -1,4 +1,4 @@
-package com.example.nothing
+package com.example.nothing.Fundamentals
 
 fun main(args: Array<String>) {
 //first syntax of creating and using an ArrayList

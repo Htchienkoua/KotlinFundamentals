@@ -1,4 +1,4 @@
-package com.example.nothing
+package com.example.nothing.Operators
 
 fun main(args: Array<String>) {
     var number1: Double = 8.4
